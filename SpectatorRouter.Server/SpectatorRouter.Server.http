@@ -1,0 +1,6 @@
+@SpectatorRouter.Server_HostAddress = http://localhost:5243
+
+GET {{SpectatorRouter.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,1 @@
+C:\dev\SpectatorRouter\spectatorrouter.client\obj\Debug\spectatorrouter.client.esproj.CoreCompileInputs.cache
