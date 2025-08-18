@@ -1,0 +1,9 @@
+.sr-badge {
+    font: 12px/1.2 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+    background: rgba(0,0,0,0.7);
+    color: #fff;
+    padding: 2px 6px;
+    border-radius: 4px;
+    transform: translate(6px, -18px); /* offset from the pin */
+    white-space: nowrap;
+}
